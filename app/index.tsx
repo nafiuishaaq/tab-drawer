@@ -8,6 +8,7 @@ export default function () {
     //   <Text onPress={() => router.push("/(tabs)")}>TABS</Text>
     // </View>
 
+    // routing to the drawer/tabs file
     <Redirect href='/(drawer)/(tabs)' />
   )
 }
